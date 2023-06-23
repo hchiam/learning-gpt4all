@@ -13,3 +13,9 @@ https://github.com/nomic-ai/gpt4all/blob/main/gpt4all-bindings/python/README.md
 https://docs.gpt4all.io/gpt4all_python.html#gpt4all.gpt4all.GPT4All.chat_completion
 
 https://github.com/hchiam/learning-prompt-eng
+
+## example applications
+
+https://github.com/hchiam/html-template-generator/tree/main/gpt4all_test
+
+https://github.com/hchiam/text-similarity-test/tree/main/gpt4all_test
