@@ -4,6 +4,17 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 A good place to start: https://github.com/hchiam/learning-gpt4all/tree/main/colab
 
+## quick example
+
+```py
+# https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-bindings/python
+# !pip install gpt4all
+from gpt4all import GPT4All
+model = GPT4All("orca-mini-3b-gguf2-q4_0.gguf") # , device='gpu') # device='amd', device='intel'
+output = model.generate("The capital of France is ", max_tokens=10)
+print(output)
+```
+
 ## some helpful links
 
 https://github.com/nomic-ai/gpt4all
