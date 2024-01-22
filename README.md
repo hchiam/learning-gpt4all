@@ -30,3 +30,7 @@ https://github.com/hchiam/learning-prompt-eng
 https://github.com/hchiam/html-template-generator/tree/main/gpt4all_test
 
 https://github.com/hchiam/text-similarity-test/tree/main/gpt4all_test
+
+## other things you might find interesting
+
+https://github.com/hchiam/learning-localGPT
