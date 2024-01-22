@@ -34,3 +34,5 @@ https://github.com/hchiam/text-similarity-test/tree/main/gpt4all_test
 ## other things you might find interesting
 
 https://github.com/hchiam/learning-localGPT
+
+https://github.com/hchiam/learning-TinyLlama
